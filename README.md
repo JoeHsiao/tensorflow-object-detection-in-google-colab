@@ -1,2 +1,5 @@
 # tensorflow-object-detection-in-google-colab
-This repository has Google Colab files that uses your Google Drive space to run tensorflow object detection API. 
+This framework allows you to 
+  1. mount Google Drive folders in Google Colaboratory
+  2. run tensorflow object detection API on those folders
+
